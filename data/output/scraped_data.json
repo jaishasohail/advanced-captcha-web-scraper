@@ -1,0 +1,4 @@
+[] # Placeholder JSON file for scraped output. This file will be overwritten by the exporter at runtime.
+
+advanced-captcha-web-scraper/data/output/scraped_data.csv
+text# Placeholder CSV file for scraped output. This file will be overwritten by the exporter at runtime.

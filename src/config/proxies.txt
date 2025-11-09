@@ -1,0 +1,5 @@
+# Example HTTP/HTTPS proxies in host:port or user:pass@host:port format
+# Replace with your own proxy list before running in production.
+
+# 127.0.0.1:8080
+# username:password@proxy.example.com:3128
